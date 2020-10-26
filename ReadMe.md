@@ -27,7 +27,7 @@ This includes the following files:
 
 To start the web application,
 
-change the default creditionals within setup/setting.php to what your own.
+change the default creditionals within setup/setting.php to your own.
 
 $servername = <<your servername>>;
 	
