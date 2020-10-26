@@ -2,9 +2,13 @@
 
 A basic web application which performs all the following.
 (1) Generate numbers from 0-100
+
 (2) Unused numbers list
+
 (3) Used numbers list
+
 (4) Ability to move numbers from unused to the used list
+
 (5) Ability to move numbers from the used list to the unused list
 
 This includes the following files
