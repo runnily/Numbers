@@ -14,12 +14,14 @@ A basic web application which performs the following:
 
 This includes the following files:
 
-	(1) css/style.css: Styling for the webpage
+	(1) setup/settings.php: Used for setting up the database
 
-	(2) unusedNumbers.php fetches the used number within the database; 
+	(2) css/style.css: Styling for the webpage
+
+	(3) unusedNumbers.php fetches the used number within the database; 
 	    user can use this to unselect a used number.
 
-	(3) usedNumbers.php fetches the unused number within the database
+	(4) usedNumbers.php fetches the unused number within the database
 	    user can use this to select a number for use.
 		
 
